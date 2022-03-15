@@ -1,2 +1,2 @@
 # SM_Colab
-seokmin's cloud
+seokmin's colab_cloud
